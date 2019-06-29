@@ -2,7 +2,7 @@
 
 usage:
 
-	from redlock import redlock
+	from red_lock import redlock
 
 	#init
     lock = relock.Redlock({"host": "localhost", "port": 6379, "db": 0},)
